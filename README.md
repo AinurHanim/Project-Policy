@@ -1,7 +1,7 @@
-# ProjectPolicy
+# SKIC3023_ProjectPolicy
 
 ## Policy
-Please make sure you inform the team if you guys want to upload/do a pull request before uploading.
+Ensure that the team is notified before initiating any uploads or pull requests.
 Please upload the latest file from GitHub first before doing the work.
 Please put all files according to their respective task.
 
